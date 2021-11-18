@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Pedro da Matta
+## iOS Developer
 
-<!--
-**pmrmoura/pmrmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m working @ **Guarana Technologies**
+- 🌱 I’m learning **SwiftUI**
+- 💬 Ask me about **Swift, UIKit**
+- 📫 How to reach me: ***pedrodamatta3@gmail.com***
+- ⚡ Fact: **Not** Vanessa da Mata's cousin😅
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/pedro-moura-815231182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro da matta ribeiro moura" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">App(s) available at App Store:</h3>
+<p align="left">
+<a href="https://apps.apple.com/br/app/e-t-contact/id1570428842?l=en" target="blank"><img align="center" src="https://i.postimg.cc/kXf8qPDR/logoa-Line-108-2x-1.png" alt="pedro da matta ribeiro moura" height="60" width="60" /></a>
+</p>
