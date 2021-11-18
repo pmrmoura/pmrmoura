@@ -1,5 +1,5 @@
-### Hi, I'm Pedro da Matta
-## iOS Developer
+## Hi, I'm Pedro da Matta
+### iOS Developer
 
 - 🔭 I’m working @ **Guarana Technologies**
 - 🌱 I’m learning **SwiftUI**
