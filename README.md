@@ -1,7 +1,6 @@
 ## Hi, I'm Pedro da Matta
 ### iOS Developer
 
-- 🔭 I’m working @ **Guarana Technologies**
 - 🌱 I’m learning **SwiftUI**
 - 💬 Ask me about **Swift, UIKit**
 - 📫 How to reach me: ***pedrodamatta3@gmail.com***
