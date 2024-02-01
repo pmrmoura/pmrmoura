@@ -4,7 +4,6 @@
 - 🌱 I’m learning **SwiftUI**
 - 💬 Ask me about **Swift, UIKit**
 - 📫 How to reach me: ***pedrodamatta3@gmail.com***
-- ⚡ Fact: **Not** Vanessa da Mata's cousin😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
